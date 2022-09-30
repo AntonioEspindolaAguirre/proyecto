@@ -1,0 +1,156 @@
+h1{
+	text-align: center;
+	color: blak;
+    font-size:35px; 
+    border-color: blue;
+    border-style: solid;
+    width: 400px;
+    background:yellow;
+}
+
+
+.h1{
+	text-align: center;
+	color: blak;
+    font-size:35px; 
+    border-color: blue;
+    border-style: solid;
+    width: 400px;
+    background:yellow;
+}
+
+
+
+
+
+
+h2{
+	letter-spacing: 5px;
+	text-align: center;
+	color:white ;
+	font-size: 30px;
+	border-color: black;
+	border-style: solid;
+	width: 400px;
+	background: black;
+
+
+}
+
+h3{
+	width: 300px;
+	text-align: center;
+	font-weight: bold;
+    font-size:25px ;
+    color:blue ;
+
+}
+
+
+p{
+	width: 400px;
+
+	font-style: italic;
+	font-size: 20px;
+	text-align:justify ;
+    text-indent: 90px;
+
+
+}
+
+table, th, td{
+
+	border:1px solid red;
+	vertical-align: middle;
+border: solid;
+
+
+
+}
+
+h4{
+text-decoration: overline;
+text-transform: uppercase;
+color: green;
+font-size: 30px;
+letter-spacing: 15px;
+
+}
+
+h5{
+	color: forestgreen;
+	font-size: 25px;
+    font-style: oblique;
+
+}
+
+.lista{
+list-style: outside;
+
+}
+
+
+h6{
+	width: 300px;
+	text-align: center;
+	font-weight: bold;
+    font-size:40px ;
+    color:blue ;
+    font-style: oblique;
+	text-decoration: none;
+}
+
+.a{
+	
+	color: black;
+	padding: 14PX 25PX;
+	text-align: center;
+	font-size: 35px;
+		text-decoration: underline;
+		
+	
+
+}
+a:link{
+
+	color:#yellow;
+}
+
+a:hover{
+
+	text-decoration: underline;
+	background: yellow;
+	color: #fff;
+
+}
+
+.icon{
+	
+	
+
+   	color: blue;
+	padding: 14PX 25PX;
+	text-align: left;
+	font-size: 40px;
+		
+	display: inline-block;
+    width: 40px;
+   
+   
+
+}
+
+
+
+.icon2{
+	color:  #e600ac;
+	padding: 14PX 25PX;
+	text-align: left;
+	font-size: 40px;
+		
+	display: inline-block;
+    width: 40px;
+
+
+
+    .
